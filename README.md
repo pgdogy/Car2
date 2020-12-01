@@ -1,3 +1,3 @@
 # Car2
 
-![G80](https://m.post.naver.com/viewer/postView.nhn?volumeNo=20570682&memberNo=963&vType=VERTICAL)
+![G80](https://raw.githubusercontent.com/pgdogy/Car2/main/G801.jpg)
